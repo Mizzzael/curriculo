@@ -1,0 +1,46 @@
+{
+    "skills": [{
+            "title": "Linguagens de programação",
+            "list": [
+                "html-5",
+                "css-3",
+                "javascript",
+                "json",
+                "php",
+                "python",
+                "clojure",
+                "java",
+                "typescript",
+                "r-lang"
+            ]
+        },
+        {
+            "title": "Bibliotecas",
+            "list": ["vue", "jquery", "angular", "react"]
+        },
+        {
+            "title": "Pré Processador",
+            "list": ["stylus", "postcss", "sass", "pug"]
+        },
+        { "title": "Container", "list": ["docker"] },
+        {
+            "title": "Frameworks",
+            "list": [
+                "laravel",
+                "phoenix",
+                "django",
+                "foundation",
+                "bootstrap",
+                "tailwindcss",
+                "nodejs-icon"
+            ]
+        },
+        { "title": "Versionamento", "list": ["git"] },
+        { "title": "Builder", "list": ["webpack", "gulp"] },
+        { "title": "GraphQL", "list": ["apollostack", "graphql"] },
+        { "title": "Machine Learning", "list": ["opencv"] },
+        { "title": "Formatador de Código", "list": ["prettier"] },
+        { "title": "Compilador", "list": ["babel"] },
+        { "title": "Banco de Dados", "list": ["mongodb", "mysql", "redis"] }
+    ]
+}

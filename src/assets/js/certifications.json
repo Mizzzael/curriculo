@@ -1,0 +1,39 @@
+{
+    "data": [{
+            "title": "Design Patterns Javascript",
+            "school": "Udemy",
+            "description": "Discover the modern implementation of design patterns in JavaScript",
+            "code": "UC-7Q36BTK3"
+        },
+        {
+            "title": "Introdução ao Vue JS 2",
+            "school": "Udemy",
+            "description": "Aprenda na prática a trabalhar com o Framework Javascript Vue JS",
+            "code": "UC-IL0A9A30"
+        },
+        {
+            "title": "Curso Completo de Kotlin para Desenvolvimento Android",
+            "school": "Udemy",
+            "description": "Aprenda do Zero a Criar Apps e Jogos Android com o Kotlin para Desenvolvimento Android",
+            "code": "UC-32ded32a-ac4c-4904-80ac-c97e1ae03036"
+        },
+        {
+            "title": "Angular 6 e 7, Apollo, GraphQL e Graphcool - Guia completo",
+            "school": "Udemy",
+            "description": "Construa uma aplicação web do Mundo Real usando o novo Angular! Passo a passo do Zero ao Deploy na Nuvem!",
+            "code": "UC-0faa296f-14a4-4402-96d4-61214b28472a"
+        },
+        {
+            "title": "Curso Javascript do Futuro - ES6/7 / Webpack 2 / TypeScript",
+            "school": "Udemy",
+            "description": "Aprenda como codificar hoje o Javascript que você certamente vai ter que saber amanhã.",
+            "code": "UC-EMT67AOV"
+        },
+        {
+            "title": "CSS: um passo adiante",
+            "school": "Udemy",
+            "description": "Eleve seu CSS ao próximo nível com CSSOO, SMACSS, BEM, Pré-processadores CSS, Namespaces CSS e Task Runners.",
+            "code": "UC-1N6NCFWS"
+        }
+    ]
+}
