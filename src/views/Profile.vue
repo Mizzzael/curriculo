@@ -150,6 +150,7 @@
 
 <script>
 import Github from "../../src/assets/js/Github.js";
+import LocalData from "../assets/js/local-data.json";
 import { mapGetters } from "vuex";
 import HeaderGeneric from "../components/HeaderGeneric.vue";
 import BodyPage from "../components/BodyPage.vue";
@@ -179,10 +180,16 @@ export default {
         Loading
     },
     mounted() {
-        github_api.getUser(this.username).then(({ data }) => {
-            this.setUserState(data);
-            this.user = this.getUser;
-        });
+        github_api
+            .getUser(this.username)
+            .then(({ data }) => {
+                this.setUserState(data);
+                this.user = this.getUser;
+            })
+            .catch(() => {
+                this.setUserState(LocalData);
+                this.user = this.getUser;
+            });
     }
 };
 </script>
